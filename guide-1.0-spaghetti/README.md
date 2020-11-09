@@ -2,7 +2,7 @@
 
 
 ## 플랫폼 설치 가이드
-- [설치 파일 다운로드 받기](./Download_Page.md)
+- [설치 파일 다운로드 받기](https://paas-ta.kr/download/package?query=&query_type=all&query_type1=all&query_type2=&start=6&display=10)
 - 개인 환경 설치
   - [BOSH-Lite](./Install-Guide/BOSH%20Lite/OpenPaaS_PaaSTA_BOSH_Lite_install_guide.md)
 - 운영 환경 설치
@@ -52,8 +52,8 @@
 
 ## 활용 가이드
 - [BOSH CLI(Command Line Interface) 사용](./Use-Guide/OpenPaaS_PaaSTA_BOSH_CLI_guide.md)
-- [CF CLI(Command Line Interface) 사용](Use-Guide/OpenPaas%20CLi%20가이드.md)
-- [Eclipse plugin 개발도구 사용] (./Use-Guide/Open%20PaaS%20%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%20%EC%82%AC%EC%9A%A9%20%EA%B0%80%EC%9D%B4%EB%93%9C.md)
+- [CF CLI(Command Line Interface) 사용](./Use-Guide/OpenPaas-CLi-guide.md)
+- [Eclipse plugin 개발도구 사용] (./Use-Guide/Open_PaaS_develop_guide.md)
 
 
 ## 개발 언어 별 어플리케이션 가이드
