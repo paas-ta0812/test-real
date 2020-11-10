@@ -69,10 +69,6 @@
       * [PHP CLI 애플리케이션 개발 가이드](guide-1.0-spaghetti/Sample-App-Guide/OpenPaaS_PaaSTA_Application_PHP_develope_guide.md)
       * [Python CLI 애플리케이션 개발 가이드](guide-1.0-spaghetti/Sample-App-Guide/OpenPaaS_PaaSTA_Application_Python_develope_guide.md)
       * [Ruby 애플리케이션 개발 가이드](guide-1.0-spaghetti/Sample-App-Guide/OpenPaaS_PaaSTA_Application_Ruby_develope_guide.md)
-* [PaaS-TA 1.0 가이드 문서](guide-1.0-spaghetti/README.md)
-  * [Install-Guide](guide-1.0-spaghetti/install-guide/README.md)
-    * [BOSH](guide-1.0-spaghetti/install-guide/BOSH/README.md)
-      * [BOSH Monitoring Agent 설
 * [PaaS-TA 가이드 문서](guide-2.0-linguine/README.md)
   * [Development-Guide](guide-2.0-linguine/development-guide/README.md)
     * [PaaS-TA\_Java\_서비스\_미터링\_개발\_가이드](guide-2.0-linguine/development-guide/paas-ta_java_-_-_-_.md)
