@@ -1,9 +1,9 @@
 # PaaS-TA 가이드 문서
 
-## 플랫폼 설치 가이드 123
+## 플랫폼 설치 가이드
 
-* [설치 파일 다운로드 받기 123 ](download_page.md)
-* 플랫폼 설치 123
+* [설치 파일 다운로드 받기](download_page.md)
+* 플랫폼 설치
   * [플랫폼 설치 자동화](install-guide/platform-install-system/paas-ta_-_-_-_-_.md)
 * 플랫폼 설치 자동화 사용가이드  
   * [플랫폼 설치 자동화 사용가이드](use-guide/paas-ta_-_-_-_-_.md)
