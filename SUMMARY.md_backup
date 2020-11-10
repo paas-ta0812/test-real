@@ -120,3 +120,6 @@
     * [포탈 Object Storage 설치 가이드](guide-2.0-linguine/use-guide/paas-ta-object-storage.md)
     * [포탈 배포 가이드](guide-2.0-linguine/use-guide/paas-ta-portal.md)
     * [Usage Reporting API 가이드](guide-2.0-linguine/use-guide/paas-ta_usage_reporting_api_.md)
+  * [PaaSTA 2.0 다운로드](guide-2.0-linguine/download_page.md)
+  * [모니터링 설치 가이드](guide-2.0-linguine/monitoring_page.md)
+  * [포털 설치 가이드](guide-2.0-linguine/portal_page.md)

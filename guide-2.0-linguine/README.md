@@ -1,9 +1,9 @@
 # PaaS-TA 가이드 문서
 
-## 플랫폼 설치 가이드 123
+## 플랫폼 설치 가이드
 
-* [설치 파일 다운로드 받기 123 ](download_page.md)
-* 플랫폼 설치 123
+* [설치 파일 다운로드 받기](download_page.md)
+* 플랫폼 설치
   * [플랫폼 설치 자동화](install-guide/platform-install-system/paas-ta_-_-_-_-_.md)
 * 플랫폼 설치 자동화 사용가이드  
   * [플랫폼 설치 자동화 사용가이드](use-guide/paas-ta_-_-_-_-_.md)
@@ -37,9 +37,9 @@
 
 ## 활용 가이드
 
-* [BOSH CLI\(Command Line Interface\) 사용](https://github.com/jhuhm13579/trans-test/tree/c3fa60c3f2804eba4cf4bb19f90449a85a66a625/Documents-PaaSTA-1.0/blob/master/Use-Guide/OpenPaaS_PaaSTA_BOSH_CLI_guide.md)
-* [CF CLI\(Command Line Interface\) 사용](https://github.com/jhuhm13579/trans-test/tree/c3fa60c3f2804eba4cf4bb19f90449a85a66a625/Documents-PaaSTA-1.0/blob/master/Use-Guide/OpenPaas%20CLi%20가이드.md)
-* \[Eclipse plugin 개발도구 사용\] \(../../../Documents-PaaSTA-1.0/blob/master/Use-Guide/Open%20PaaS%20%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%20%EC%82%AC%EC%9A%A9%20%EA%B0%80%EC%9D%B4%EB%93%9C.md\)
+* [BOSH CLI\(Command Line Interface\) 사용](guide-1.0-spaghetti/Use-Guide/OpenPaaS_PaaSTA_BOSH_CLI_guide.md)
+* [CF CLI\(Command Line Interface\) 사용](guide-1.0-spaghetti/Use-Guide/OpenPaas-CLi-guide.md)
+* [Eclipse plugin 개발도구 사용](guide-1.0-spaghetti/Use-Guide/Open_PaaS_develop_guide.md)
 * [운영자 포털 가이드](use-guide/paas-ta-_v1.0-2.md)
 * [사용자 포털 가이드](use-guide/paas-ta-_v1.0.md)
 * [플랫폼 설치 자동화 사용 가이드](use-guide/paas-ta_-_-_-_-_.md)
@@ -49,21 +49,20 @@
 
 ## 개발 언어 별 어플리케이션 가이드
 
-* [Node.js](https://github.com/jhuhm13579/trans-test/tree/c3fa60c3f2804eba4cf4bb19f90449a85a66a625/Documents-PaaSTA-1.0/blob/master/Sample-App-Guide/OpenPaaS_PaaSTA_Application_Nodejs_develope_guide.md)
-* [PHP](https://github.com/jhuhm13579/trans-test/tree/c3fa60c3f2804eba4cf4bb19f90449a85a66a625/Documents-PaaSTA-1.0/blob/master/Sample-App-Guide/OpenPaaS_PaaSTA_Application_PHP_develope_guide.md)
-* [Python](https://github.com/jhuhm13579/trans-test/tree/c3fa60c3f2804eba4cf4bb19f90449a85a66a625/Documents-PaaSTA-1.0/blob/master/Sample-App-Guide/OpenPaaS_PaaSTA_Application_Python_develope_guide.md)
-* [Ruby](https://github.com/jhuhm13579/trans-test/tree/c3fa60c3f2804eba4cf4bb19f90449a85a66a625/Documents-PaaSTA-1.0/blob/master/Sample-App-Guide/OpenPaaS_PaaSTA_Application_Ruby_develope_guide.md)
-* [Java](https://github.com/jhuhm13579/trans-test/tree/c3fa60c3f2804eba4cf4bb19f90449a85a66a625/Documents-PaaSTA-1.0/blob/master/Sample-App-Guide/OpenPaaS_PaaSTA_Application_Java_develope_guide.md)
-* [Go](https://github.com/jhuhm13579/trans-test/tree/c3fa60c3f2804eba4cf4bb19f90449a85a66a625/Documents-PaaSTA-1.0/blob/master/Sample-App-Guide/OpenPaaS_PaaSTA_Application_Go_develope_guide.md)
+* [Node.js]()
+* [PHP]()
+* [Python]()
+* [Ruby]()
+* [Java]()
+* [Go]()
 
 ## 플랫폼 개발 가이드
 
-* [스템셀 개발 가이드](https://github.com/jhuhm13579/trans-test/tree/c3fa60c3f2804eba4cf4bb19f90449a85a66a625/Documents-PaaSTA-1.0/blob/master/Development-Guide/OpenPaaS_PaaSTA_Build_Stemcell_guide.md)
-* [서비스팩 개발 가이드](https://github.com/jhuhm13579/trans-test/tree/c3fa60c3f2804eba4cf4bb19f90449a85a66a625/Documents-PaaSTA-1.0/blob/master/Development-Guide/ServicePack_develope_guide.md)
-* [빌드팩 개발 가이드](https://github.com/jhuhm13579/trans-test/tree/c3fa60c3f2804eba4cf4bb19f90449a85a66a625/Documents-PaaSTA-1.0/blob/master/Development-Guide/Buildpack_develope_guide.md)
-* [어플리케이션 APIPlatform 도로주소 개발 가이드](https://github.com/jhuhm13579/trans-test/tree/c3fa60c3f2804eba4cf4bb19f90449a85a66a625/Documents-PaaSTA-1.0/blob/master/Development-Guide/Application_APIPlatform_dorojuso_devlope_guide.md)
-* [퍼블릭 API 개발 가이드](https://github.com/jhuhm13579/trans-test/tree/c3fa60c3f2804eba4cf4bb19f90449a85a66a625/Documents-PaaSTA-1.0/blob/master/Development-Guide/PublicAPI_devlope_guide.md)
+* [스템셀 개발 가이드](guide-1.0-spaghetti/Development-Guide/OpenPaaS_PaaSTA_Build_Stemcell_guide.md)
+* [서비스팩 개발 가이드](guide-1.0-spaghetti/Development-Guide/ServicePack_develope_guide.md)
+* [빌드팩 개발 가이드](guide-1.0-spaghetti/Development-Guide/Buildpack_develope_guide.md)
+* [어플리케이션 APIPlatform 도로주소 개발 가이드](guide-1.0-spaghetti/Development-Guide/Application_APIPlatform_dorojuso_devlope_guide.md)
+* [퍼블릭 API 개발 가이드](guide-1.0-spaghetti/Development-Guide/PublicAPI_devlope_guide.md)
 * [Java API 서비스 미터링 개발 가이드](development-guide/paas-ta_java_api_-_-_-_.md)
 * [Java 서비스 미터링 개발 가이드](development-guide/paas-ta_java_-_-_-_.md)
 * [Nodejs API 서비스 미터링 개발 가이드](development-guide/paas-ta_node.js_api_-_-_.md)
-
