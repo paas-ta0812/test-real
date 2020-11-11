@@ -29,7 +29,8 @@
 
 ## 포털 설치 가이드
 
-* [PaaS-TA 포털](portal_page.md)
+* [Portal Object Storage 설치가이드](use-guide/paas-ta-object-storage.md)
+* [Portal 배포 가이드](use-guide/paas-ta-portal.md)
 
 ## 모니터링 설치 가이드
 
